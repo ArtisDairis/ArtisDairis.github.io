@@ -23,6 +23,8 @@ body
     height: 200px;
     font-size: 46px;
     padding-top: 30px;
+    font-style: italic;
+    font-weight: bold;
 }
 
 .back_me_mini
@@ -30,4 +32,17 @@ body
     font-size: 30px;
     padding-top: 10px;
     padding-bottom: 50px;
+    font-style: italic;
+}
+
+a
+{
+    background-color: rgb(67, 209, 162);
+    font-size: 24px;
+    border: solid black;
+}
+
+.works
+{
+    text-align: center;
 }
