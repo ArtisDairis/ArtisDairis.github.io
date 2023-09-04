@@ -47,14 +47,14 @@ a
 }
 a:hover
 {
-    color: dimgray;
+    color: yellowgreen;
 }
 
 .teksts1
 {
     color: rgb(0, 71, 0);
     text-shadow: -1px 1px 0 #000,
-                          1px 1px 0 #ff0000,
+                          1px 1px 0 #ffc400,
                          1px -1px 0 #ffffff,
                         -1px -1px 0 #00ff62;
 }
