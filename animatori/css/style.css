@@ -1,0 +1,457 @@
+body
+{
+	/*background-image: linear-gradient(#9e3eca 0%, #88efd6 100%);*/
+	background: #8a61b1;
+/*	height: 2500px;
+	background-repeat: no-repeat;*/
+	font-family: 'Open Sans', sans-serif;
+}
+.header
+{
+	background-image: url("../image/img2.jpg");
+	width: 1905px;
+	height: 300px;
+	margin-top: -10px;
+	margin-left: -10px;
+	background-repeat: no-repeat;
+}
+.nos
+{
+	position: absolute;
+	width: 280px;
+	height: 100px;
+	float: left;
+	margin-top: -5px;
+	margin-left: 10px;
+
+	font-family: 'Galada', cursive;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 56px;
+	line-height: 163px;
+	display: flex;
+	align-items: center;
+	text-align: center;
+
+	background: linear-gradient(111.62deg, #6EE1EF 0%, #EF4136 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-clip: text;
+	text-fill-color: transparent;
+
+	text-shadow: 2px 0 7px #FFFFFF;
+}
+.logo
+{
+	width: 200px;
+	display: flex;
+	padding-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.login
+{
+	float: right;
+	width: 160px;
+	height: 60px;
+	margin-top: 10px;
+
+	background: #61D5B9;
+	border-radius: 50px;
+
+	text-align: center;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 24px;
+}
+.login:hover
+{
+	background: #88efd6;
+}
+.jaun
+{
+	margin-top: 50px;
+	width: 1400px;
+	height: 400px;
+	margin-left: auto;
+	margin-right: auto;
+
+	background: #D9D9D9;
+	border-radius: 80px;
+}
+
+.logint
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 600px;
+	height: 500px;
+	background: linear-gradient(180deg, rgba(142, 206, 131, 0.94) 82.81%, rgba(131, 202, 206, 0) 100%);
+	border-radius: 45px;
+}
+.ievd
+{
+	padding-top: 30px;
+	text-align: center;
+	font-size: 30px;
+}
+.ievade
+{
+	font-size: 24px;
+}
+.iesn
+{
+	margin-top: 20px;
+	width: 140px;
+	height: 60px;
+	background: #D9D9D9;
+	border-radius: 25px;
+}
+.rikj
+{
+	width: 1480px;
+	height: 100px;
+	background: #9D9595;
+	border-radius: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	float: left;
+	margin-left: 6%;
+}
+.box
+{
+	padding: 5px 5px 5px 5px;
+	margin: 30px 30px 30px 30px;
+	width: 100px;
+	background: #FFFFFF;
+	border: 1px solid #B9B9B9;
+	border-radius: 4px;
+	height: 40px;
+}
+.box:hover
+{
+	background: #EEEEEE;
+}
+.box1
+{
+	background-image: linear-gradient(#7fee7d 0%, #FFFFFF 100%);
+}
+.acc
+{
+	width: 240px;
+	height: 253px;
+	float: right;
+	background: #61D5B9;
+	border-radius: 50px;
+}
+.user
+{
+	display: flex;
+	width: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 17%;
+	border-radius: 45px;
+	background-color: #7fee7d;
+	border: solid black;
+}
+.mkonts
+{
+	display: flex;
+
+	margin-left: auto;
+	margin-right: auto;
+
+	text-align: center;
+	margin-top: 5%;
+	padding-left: 17%;
+	width: 110px;
+	height: 38px;
+	background: #7FEE7D;
+	border: 1px solid rgba(0, 0, 0, 0.5);
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	border-radius: 10px;
+}
+.info
+{
+	background-color: #808080;
+	width: 1000px;
+	height: 600px;
+	border-radius: 60px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 24px;
+}
+.datl
+{
+	float: left;
+	padding-top: 3%;
+	padding-left: 70px;
+	width: 400px;
+}
+.datr
+{
+	float: right;
+	padding-top: 3%;
+	padding-right: 50px;
+	width: 360px;
+}
+.foto
+{
+}
+.iesni
+{
+	margin-top: 4%;
+	width: 140px;
+	height: 60px;
+	background: #D9D9D9;
+	border-radius: 25px;
+	margin-left: 20%;
+}
+.port
+{
+	background-color: yellow;
+	width: 300px;
+	height: 360px;
+}
+.piedl
+{
+	float: left;
+	width: 50%;
+}
+.piedr
+{
+	float: right;
+	width: 50%;
+}
+.pieda
+{
+	margin-top: 20px;
+	width: 800px;
+	height: 400px;
+	margin-left: auto;
+	margin-right: auto;
+
+	background: #D9D9D9;
+	border-radius: 80px;
+}
+.pas
+{
+	float: right;
+	margin-top: -4%;
+	margin-right: 50px;
+	background: #7fee7d;
+	border-radius: 25px;
+	width: 150px;
+	height: 50px;
+	font-size: 20px;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.pas:hover
+{
+	background: #76EA74;
+}
+.piedf
+{
+	width: 250px;
+	height: 300px;
+	background: black;
+	margin-left: 30px;
+	margin-top: 6%;
+}
+.teksts1
+{
+	width: 400px;
+	height: 300px;
+	float: right;
+	padding-right: 50px;
+	padding-top: 40px;
+}
+.jaunf
+{
+	padding-top: 50px;
+	padding-left: 45px;
+	width: 250px;
+	height: 300px;
+	float: left;
+}
+.jaunr
+{
+	padding-top: 40px;
+	padding-right: 30px;
+	float: right;
+	width: 1000px;
+}
+.apsk
+{
+	float: right;
+	margin-top: 10%;
+	margin-right: 50px;
+	background: #7fee7d;
+	border-radius: 25px;
+	width: 150px;
+	height: 50px;
+	font-size: 20px;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.apsk:hover
+{
+	background: #76EA74;
+}
+input
+{
+	font-family: 'Open Sans', sans-serif;
+}
+.ievade
+{
+	border-radius: 10px;
+	margin-top: 10px;
+}
+.nickname
+{
+	padding-left: 95px;
+}
+.tabula
+{
+	width: 1600px;
+	height: 800px;
+
+	background: #D9D9D9;
+	margin-left: auto;
+	margin-right: auto;
+}
+.tabl
+{
+	margin-top: 50px;
+	margin-left: 30px;
+	width: 300px;
+	float: left;
+}
+.tabr
+{
+	width: 1100px;
+	float: right;
+
+}
+.tabula1
+{
+	margin-top: 50px;
+	border: solid black;
+	margin-right: 100px;
+}
+th
+{
+	position: sticky;
+	width: 300px;
+}
+table
+{	
+	overflow-y:scroll;
+   	height:600px;
+   	display:block;
+}
+.raksts
+{
+	font-size: 18px;
+	width: 110px;
+	height: 50px;
+	border: solid black;
+	text-align: center;
+}
+.butl
+{
+	margin-left: 28%;
+	margin-top: 5%;
+	text-align: center;
+	width: 110px;
+	height: 38px;
+	background: #7FEE7D;
+	border: 1px solid rgba(0, 0, 0, 0.5);
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	border-radius: 10px;
+	cursor: pointer;
+}
+.ievadl
+{
+	width: 1200px;
+	height: 800px;
+
+	background: #D9D9D9;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5%;
+}
+.le
+{
+	float: left;
+	margin-top: 6%;
+	margin-left: 50px;
+	width: 400px;
+	height: 500px;
+}
+.ri
+{
+	float: right;
+	margin-top: 6%;
+	margin-left: 35%;
+	margin-right: 50px;
+	width: 400px;
+	height: 500px;
+}
+.poga
+{
+	text-align: center;
+	width: 110px;
+	height: 40px;
+	background: #7FEE7D;
+	border: 1px solid rgba(0, 0, 0, 0.5);
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	border-radius: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+
+}
+.pogas
+{
+	display: flex;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+.ievadl{
+	display: flex;
+	flex-direction: column;
+}
+.lauki
+{
+	display: flex;
+	flex-direction: row;
+}
+.nosauk
+{
+	text-align: center;
+	font-size: 36px;
+}
+.tbut
+{
+	background: #7FEE7D;
+	width: 60px;
+	cursor: pointer;
+	border-radius: 5px;
+}
+.tbut: hover
+{
+	background: #84c982;
+}
+.rkjosla
+{
+	margin-bottom: 20px;
+}
