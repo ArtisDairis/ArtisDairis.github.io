@@ -1,6 +1,6 @@
 body
 {
-    background-color: lightblue;
+    background-color: rgb(196, 240, 130);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -37,9 +37,26 @@ body
 
 a
 {
-    background-color: rgb(67, 209, 162);
+    background-color: rgb(50, 109, 50);
     font-size: 24px;
     border: solid black;
+    padding: 5px 5px 5px 5px;
+    margin: 5px 5px 5px 5px;
+    color: #a9fdac;
+    border-radius: 5px;
+}
+a:hover
+{
+    color: dimgray;
+}
+
+.teksts1
+{
+    color: rgb(0, 71, 0);
+    text-shadow: -1px 1px 0 #000,
+                          1px 1px 0 #ff0000,
+                         1px -1px 0 #ffffff,
+                        -1px -1px 0 #00ff62;
 }
 
 .works
